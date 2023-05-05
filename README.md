@@ -6,7 +6,7 @@
 3. Created and Taught "Introduction to Quantum Machine Learning," a semester CS graduate course, Purdue University Fort Wayne, Summer 2022
 
 ### Tier 2
-1. IBM Qiskit Fall Fest 2022, organzier https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md
+1. [IBM Qiskit Fall Fest 2022, organzier](https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md)
 2. World Quantum Day Event, organizer, 
 ![worldquantumday](Q-day2.jpg)
 #### 
