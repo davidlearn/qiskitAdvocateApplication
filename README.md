@@ -10,6 +10,7 @@
 #### World Quantum Day Event, organizer
 #### 
 ### Tier 3
+#### Introduction to Quantum Computing, Fall 2022 and Spring 2023, The Coding School and IBM Quantum
 #### IBM Quantum Explorer. all badges, July 2022 to Feb 2023.
 #### Quantum Internet Hackathon, Nov 2022
 #### qBraid Hackathon, top 10, Oct 2022
