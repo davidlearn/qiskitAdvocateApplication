@@ -10,11 +10,11 @@
 2. World Quantum Day Event, organizer
 #### 
 ### Tier 3
-1. Introduction to Quantum Computing, Fall 2022 and Spring 2023, The Coding School and IBM Quantum
-2. IBM Quantum Explorer. all badges, July 2022 to Feb 2023.
-3. Quantum Internet Hackathon, Nov 2022
+1. Introduction to Quantum Computing, completed over 100%, Fall 2022 and Spring 2023, The Coding School and IBM Quantum
+2. IBM Quantum Explorer, all badges, July 2022 to Feb 2023.
+3. Quantum Internet Hackathon, implemented a qkd project, Nov 2022
 4. qBraid Hackathon, top 10, Oct 2022
-5. Quantum Game Jam, Oct 2022
+5. Quantum Game Jam, created a Quantum card game, Oct 2022
 6. IBM Quantum Challenge Fall 2022 Achievement - Advanced https://www.credly.com/badges/e7dd63d3-d03c-4ada-b1a2-4323e18a8045/public_url
 8. Qiskit Global Summer School 2022 - Quantum Excellence, https://www.credly.com/badges/2fbeb6f0-b03b-474b-87da-6fe1cf88f189/public_url
 9. Womanium Quantum Workshop and Hackathon, July 8 - Aug 5, 2022
