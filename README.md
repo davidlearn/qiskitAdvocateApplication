@@ -7,7 +7,8 @@
 
 ### Tier 2
 1. IBM Qiskit Fall Fest 2022, organzier https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md
-2. World Quantum Day Event, organizer, <img src="Q-day2.jpg" width="100" height="100">
+2. World Quantum Day Event, organizer, 
+<img src="Q-day2.jpg" width="100" height="200">
 #### 
 ### Tier 3
 1. Introduction to Quantum Computing, completed over 100%, Fall 2022 and Spring 2023, The Coding School and IBM Quantum
