@@ -15,7 +15,7 @@
 2. Xanadu qHack, top 25 Coding Challegne, and submitted a Open Hackathon project, Feb 12-28, 2023
 3. MIT iquHack, submitted a Hackathon project, Jan 27-29, 2023
 4. IBM Quantum Explorer, all badges, July 2022 to Feb 2023.
-5. [Quantum Internet Hackathon,](https://github.com/davidlearn/QIH-2022), implemented [ qkd project, Nov 2022](https://github.com/GSiddiMoreau/QIH22-QKD)
+5. [Quantum Internet Hackathon 2022,](https://github.com/davidlearn/QIH-2022), implemented [ qkd project, Dec 1 - 2, 2022](https://github.com/GSiddiMoreau/QIH22-QKD)
 6. qBraid Hackathon, top 10, Oct 2022
 7. Quantum Game Jam, created a Quantum card game, Oct 2022
 8. [IBM Quantum Challenge Fall 2022 Achievement - Advanced.](https://www.credly.com/badges/e7dd63d3-d03c-4ada-b1a2-4323e18a8045/public_url)
