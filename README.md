@@ -9,5 +9,6 @@
 ### Tier 4
 
 ## Qiskit Developer Certification
-
+IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X, December, 2021
+https://www.credly.com/badges/86317861-13ad-4cd1-8b01-6217e9ca4398/public_url
 ## 
