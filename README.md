@@ -3,6 +3,8 @@
 ### Tier 1
 
 ### Tier 2
+#### IBM Qiskit Fall Fest 2022 
+     https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md
 
 ### Tier 3
 
