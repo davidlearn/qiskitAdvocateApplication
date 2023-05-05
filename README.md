@@ -10,6 +10,7 @@
 #### World Quantum Day Event, organizer
 #### 
 ### Tier 3
+#### IBM Quantum Explorer. all badges, July 2022 to Feb 2023.
 #### Quantum Internet Hackathon, Nov 2022
 #### qBraid Hackathon, top 10, Oct 2022
 #### Quantum Game Jam, Oct 2022
