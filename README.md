@@ -1,4 +1,4 @@
-# qiskitAdvocateApplication
+# Qiskit Advocate Application
 ## Contributions to Qiskit code and community
 ### Tier 1
 
