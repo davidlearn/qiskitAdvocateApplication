@@ -24,7 +24,7 @@
 11. [IBM Quantum Spring Challenge 2022 Achievement](https://www.credly.com/badges/e04729da-58ea-40d8-855c-c891a91c3b3d/public_url)
 12. [IBM Quantum Challenge - Fall 2021 - Advanced.](https://www.credly.com/badges/d05e014c-0acd-4d89-9959-f4f68122983c/public_url)
 13. [IBM Quantum Challenge Africa 2021 Achievement.](https://www.credly.com/badges/580f265c-9a9d-4f2a-9795-5ad14e451b80/public_url)
-14. Qiskit Global Summer School 2021 - Quantum Excellence
+14. [Qiskit Global Summer School 2021 - Quantum Excellence](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitGlobalSummerSchool_CertificateofQuantumExcellence.pdf)
 #### 
 ### Tier 4
 
