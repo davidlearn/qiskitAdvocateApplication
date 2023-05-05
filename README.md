@@ -11,7 +11,7 @@
 2. [World Quantum Day Event, organizer.](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Q-day2.jpg)
 #### 
 ### Tier 3
-1. Introduction to Quantum Computing, completed over 100%, Fall 2022 and Spring 2023, The Coding School and IBM Quantum
+1. Introduction to Quantum Computing, completed over 100%, Fall 2022 and Spring 2023, [Certificate](https://verified.sertifier.com/en/verify/56245325107158), The Coding School and IBM Quantum
 2. [Xanadu qHack](https://github.com/XanaduAI/QHack2023), top 25 Coding Challegne, and submitted a Open Hackathon project, Feb 12-28, 2023
 3. [MIT iquHack](https://www.iquise.mit.edu/iQuHACK/2023-01-27), submitted a Hackathon project, Jan 27-29, 2023
 4. [IBM Quantum Explorer,](http://qisk.it/quantum-explorers) [Certificate of Excellence (Highest)](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QuamtumExplorerExcellence%20Certificate.pdf), July 2022 to Feb 2023.
