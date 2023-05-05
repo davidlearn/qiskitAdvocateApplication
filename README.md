@@ -3,7 +3,7 @@
 ## Contributions to Qiskit code and community
 ### Tier 1
 1. Create and Teach "Introduction to Quantum Computing," a semester CS graduate course, Purdue University Fort Wayne, Fall 2023
-2. Created and Taught "Introduction to Quanmtu Machine Learning," a semester CS graduate course, Purdue University Fort Wayne, Spring 2023
+2. Taught "Introduction to Quanmtu Machine Learning," a semester CS graduate course, Purdue University Fort Wayne, Spring 2023
 3. Created and Taught "Introduction to Quantum Machine Learning," a semester CS graduate course, Purdue University Fort Wayne, Summer 2022
 
 ### Tier 2
@@ -14,7 +14,7 @@
 1. Introduction to Quantum Computing, completed over 100%, Fall 2022 and Spring 2023, The Coding School and IBM Quantum
 2. Xanadu qHack, top 25 Coding Challegne, and submitted a Open Hackathon project, Feb 12-28, 2023
 3. MIT iquHack, submitted a Hackathon project, Jan 27-29, 2023
-4. IBM Quantum Explorer, all badges, July 2022 to Feb 2023.
+4. IBM Quantum Explorer, [all badges](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QuamtumExplorerExcellence%20Certificate.pdf), July 2022 to Feb 2023.
 5. [Quantum Internet Hackathon 2022,](https://quantum-internet.team/event/qia-hackathon-2022/), implemented [ qkd project, Dec 1 - 2, 2022](https://github.com/GSiddiMoreau/QIH22-QKD)
 6. [qBraid Hackathon](https://qbraid.com/haqs/), 9th in Main Challenge Leadeboard, [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/HAQS_%20David%20Liu_CERTIFICATE.pdf) Oct 21 - Nov 5, 2022
 7. [Global Quantum Game Jam 2022](https://www.igda.fi/new-events/2022/igda-future-amp-global-quantum-game-jam-2022), created a Quantum card game, [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QuantumGameJamDavid_Liu.pdf), Sept 16 - 18, 2022
