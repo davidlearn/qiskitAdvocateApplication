@@ -7,7 +7,7 @@
 
 ### Tier 2
 1. IBM Qiskit Fall Fest 2022, organzier https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md
-2. World Quantum Day Event, organizer, ![worldquantumday](Q-day2.jpg | width=100)
+2. World Quantum Day Event, organizer, 
 3. <img src="Q-day2.jpg" width="100" height="100">
 #### 
 ### Tier 3
