@@ -16,7 +16,7 @@
 3. MIT iquHack, submitted a Hackathon project, Jan 27-29, 2023
 4. IBM Quantum Explorer, all badges, July 2022 to Feb 2023.
 5. [Quantum Internet Hackathon 2022,](https://github.com/davidlearn/QIH-2022), implemented [ qkd project, Dec 1 - 2, 2022](https://github.com/GSiddiMoreau/QIH22-QKD)
-6. qBraid Hackathon, top 10, Oct 2022
+6. [qBraid Hackathon, 9th in Main Challenge Leadeboard, [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/HAQS_%20David%20Liu_CERTIFICATE.pdf) Oct 21 - Nov 5, 2022
 7. Quantum Game Jam, created a Quantum card game, Oct 2022
 8. [IBM Quantum Challenge Fall 2022 Achievement - Advanced.](https://www.credly.com/badges/e7dd63d3-d03c-4ada-b1a2-4323e18a8045/public_url)
 9. [Qiskit Global Summer School 2022 - Quantum Excellence.](https://www.credly.com/badges/2fbeb6f0-b03b-474b-87da-6fe1cf88f189/public_url)
