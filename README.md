@@ -1,9 +1,9 @@
 # Qiskit Advocate Application
 ## Contributions to Qiskit code and community
 ### Tier 1
-1. Introduction to Quantum Computing. a semester CS graduate course, Purdue University Fort Wayne, Fall 2023
-2. Introduction to Quanmtu Machine Learning, a semester CS graduate course, Purdue University Fort Wayne, Spring 2023
-3. Introduction to Quantum Machine Learning, a semester CS graduate course, Purdue University Fort Wayne, Summer 2022
+1. Create and Teach "Introduction to Quantum Computing," a semester CS graduate course, Purdue University Fort Wayne, Fall 2023
+2. Created and Taught "Introduction to Quanmtu Machine Learning," a semester CS graduate course, Purdue University Fort Wayne, Spring 2023
+3. Created and Taught "Introduction to Quantum Machine Learning," a semester CS graduate course, Purdue University Fort Wayne, Summer 2022
 
 ### Tier 2
 1. IBM Qiskit Fall Fest 2022, organzier https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md
