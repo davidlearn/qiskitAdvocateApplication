@@ -29,7 +29,7 @@
 16. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/),  [Certificate of Quantum Excellence](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitGlobalSummerSchool_CertificateofQuantumExcellence.pdf)
 #### 
 ### Tier 4
-
+1. Qiskit Slack: answer questions in #general, #qiskit-101, #ibm-quantum-challenge, #qiskit-cert-exam,  
 ## Qiskit Developer Certification
 1. [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X, December, 2021](https://www.credly.com/badges/86317861-13ad-4cd1-8b01-6217e9ca4398/public_url)
 ## 
