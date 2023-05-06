@@ -13,7 +13,7 @@
 ### Tier 3
 1. Introduction to Quantum Computing, completed over 100%, Fall 2022 and Spring 2023, [Certificate of Completition](https://verified.sertifier.com/en/verify/56245325107158), [The Coding School](https://the-cs.org/) and [IBM Quantum](https://www.ibm.com/quantum) 
 2. [Xanadu qHack](https://github.com/XanaduAI/QHack2023), top 22 Coding Challegne , [Certificate of Achievement](https://mcusercontent.com/725f07a1d1a4337416c3129fd/images/8eda94fe-827b-156f-5d88-902b47a17ba7.png) and submitted a [Open Hackathon project](https://github.com/XanaduAI/QHack2023/issues/87), Feb 12-28, 2023
-3. [MIT iquHack](https://www.iquise.mit.edu/iQuHACK/2023-01-27), [Certificate}(https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/cert-DavidLiu.pdf) of submitted a [Hackathon project](https://github.com/iQuHACK/2023_IonQ_Remote/pull/16), Jan 27-29, 2023
+3. [MIT iquHack](https://www.iquise.mit.edu/iQuHACK/2023-01-27), [Certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/cert-DavidLiu.pdf) of submitted a [Hackathon project](https://github.com/iQuHACK/2023_IonQ_Remote/pull/16), Jan 27-29, 2023
 4. [IBM Quantum Explorer,](http://qisk.it/quantum-explorers) [Certificate of Excellence (Highest)](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QuamtumExplorerExcellence%20Certificate.pdf), July 2022 to Feb 2023.
 5. [Quantum Internet Hackathon 2022,](https://quantum-internet.team/event/qia-hackathon-2022/), implemented [ qkd project, Dec 1 - 2, 2022](https://github.com/GSiddiMoreau/QIH22-QKD)
 6. [qBraid Hackathon](https://qbraid.com/haqs/), 9th in Main Challenge Leadeboard, [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/HAQS_%20David%20Liu_CERTIFICATE.pdf) Oct 21 - Nov 5, 2022
