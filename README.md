@@ -24,10 +24,12 @@
 11. [IBM Quantum Challenge Fall 2022](https://research.ibm.com/blog/quantum-challenge-fall-2022-results), individual, [Advanced Achievement Badge](https://www.credly.com/badges/e7dd63d3-d03c-4ada-b1a2-4323e18a8045/public_url)
 12. [Qiskit Global Summer School 2022: Quantum Similations](https://qiskit.org/events/summer-school/), individual, [Quantum Excellence Badge](https://www.credly.com/badges/2fbeb6f0-b03b-474b-87da-6fe1cf88f189/public_url)
 13. [Womanium Quantum](https://www.womanium.org/Quantum/Program) 2022, full Scholarship, [QBronze Certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QBronze96-226.pdf), [QSilver Certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QSilver14-128.pdf), [Quantum Hardware Certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Qhardware.png), and 3 person team [Hackathon Certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/WomaniumHackthon.jpg), July 10 - Aug 26, 2022
-14. IBM Quantum Spring Challenge 2022, individual, [Advanced Achievement Badge](https://www.credly.com/badges/e04729da-58ea-40d8-855c-c891a91c3b3d/public_url)
-15. IBM Quantum Challenge Fall 2021, individual, [Advanced Achievement Badge](https://www.credly.com/badges/d05e014c-0acd-4d89-9959-f4f68122983c/public_url)
-16. IBM Quantum Challenge Africa 2021, individual, [Advanced Achievement Badge](https://www.credly.com/badges/580f265c-9a9d-4f2a-9795-5ad14e451b80/public_url)
-17. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/), [Certificate of Quantum Excellence](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitGlobalSummerSchool_CertificateofQuantumExcellence.pdf)
+14. [IBM Quantum Educator Summit](https://ibmquantumeducator.bemyapp.com/), participant, June 20, 2022
+15. IBM Quantum Spring Challenge 2022, individual, [Advanced Achievement Badge](https://www.credly.com/badges/e04729da-58ea-40d8-855c-c891a91c3b3d/public_url)
+16. IBM Quantum Challenge Fall 2021, individual, [Advanced Achievement Badge](https://www.credly.com/badges/d05e014c-0acd-4d89-9959-f4f68122983c/public_url)
+17. IBM Quantum Challenge Africa 2021, individual, [Advanced Achievement Badge](https://www.credly.com/badges/580f265c-9a9d-4f2a-9795-5ad14e451b80/public_url)
+18. [IBM Quantum Educator Summit](https://ibmquantumeducator.bemyapp.com/), participant, August 3-4, 2021
+19. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/), [Certificate of Quantum Excellence](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitGlobalSummerSchool_CertificateofQuantumExcellence.pdf)
 #### 
 ### Tier 4
 1. Qiskit Slack, answer questions in #general, #qiskit-101, #ibm-quantum-challenge, #qiskit-cert-exam,  
