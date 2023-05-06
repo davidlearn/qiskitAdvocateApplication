@@ -18,7 +18,7 @@
 5. [Quantum Internet Hackathon 2022,](https://quantum-internet.team/event/qia-hackathon-2022/), implemented [ qkd project, Dec 1 - 2, 2022](https://github.com/GSiddiMoreau/QIH22-QKD)
 6. Xanadu's First PennyLane Code Camp, [Certificate of Achirevement](https://verified.sertifier.com/en/verify/96456667287733) for completing all 15 code challenges, Nov 1 - 21, 2022.
 7. [qBraid Hackathon](https://qbraid.com/haqs/), 9th in Main Challenge Leadeboard, [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/HAQS_%20David%20Liu_CERTIFICATE.pdf) Oct 21 - Nov 5, 2022
-8. [Global Quantum Game Jam 2022](https://www.igda.fi/new-events/2022/igda-future-amp-global-quantum-game-jam-2022), created a Quantum card game, [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QuantumGameJamDavid_Liu.pdf), Sept 16 - 18, 2022
+8. [Global Quantum Game Jam 2022](https://www.igda.fi/new-events/2022/igda-future-amp-global-quantum-game-jam-2022), created a [Quantum card game](https://yashaswini-hm.itch.io/q-uno), [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QuantumGameJamDavid_Liu.pdf), Sept 16 - 18, 2022
 9. [IBM Quantum Challenge Fall 2022 Achievement - Advanced.](https://www.credly.com/badges/e7dd63d3-d03c-4ada-b1a2-4323e18a8045/public_url)
 10. [Qiskit Global Summer School 2022 - Quantum Excellence.](https://www.credly.com/badges/2fbeb6f0-b03b-474b-87da-6fe1cf88f189/public_url)
 11. Womanium Quantum Workshop and Hackathon, [QBronze](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QBronze96-226.pdf), [QSilver](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QSilver14-128.pdf), July 8 - Aug 5, 2022
