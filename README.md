@@ -30,9 +30,10 @@
 17. [Qiskit Global Summer School 2021: Quantum Machine Learning](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/), [Certificate of Quantum Excellence](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitGlobalSummerSchool_CertificateofQuantumExcellence.pdf)
 #### 
 ### Tier 4
-1. Qiskit Slack, answer questions in #general, #qiskit-101, #ibm-quantum-challenge, #qiskit-cert-exam
-2. [IBM Quantum Educator Summit](https://ibmquantumeducator.bemyapp.com/), participant, June 20, 2022
-3. [IBM Quantum Educator Summit](https://ibmquantumeducator.bemyapp.com/), participant, August 3-4, 2021
+1. IBM Quantum Design, Feedack Session, 3 - 4 pm, April 6 and 3 - 4 pm, January 31, 2023
+2. Qiskit Slack, answer questions in #general, #qiskit-101, #ibm-quantum-challenge, #qiskit-cert-exam
+3. [IBM Quantum Educator Summit](https://ibmquantumeducator.bemyapp.com/), participant, June 20, 2022
+4. [IBM Quantum Educator Summit](https://ibmquantumeducator.bemyapp.com/), participant, August 3-4, 2021
 ## Qiskit Developer Certification
 1. [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.credly.com/badges/86317861-13ad-4cd1-8b01-6217e9ca4398/public_url), December, 2021
 ## 
