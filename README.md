@@ -2,9 +2,9 @@
 ### David Liu
 ## Contributions to Qiskit code and community
 ### Tier 1
-1. Create and Teach ["Introduction to Qua),ntum Computing,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QCFA23.pdf) a semester CS graduate course, Purdue University Fort Wayne, Fall 2023
-2. Taught ["Quanmtu Machine Learning,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSP23.pdf), a semester CS graduate course, Purdue University Fort Wayne, Spring 2023
-3. Created and Taught ["Quantum Machine Learning,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSU22.pdf) a semester CS graduate course, Purdue University Fort Wayne, Summer 2022
+1. Create and Teach ["Introduction to Qua),ntum Computing,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QCFA23.pdf) a semester CS graduate course, [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2023
+2. Taught ["Quanmtu Machine Learning,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSP23.pdf), a semester CS graduate course, [Purdue University Fort Wayne](https://www.pfw.edu/), Spring 2023
+3. Created and Taught ["Quantum Machine Learning,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSU22.pdf) a semester CS graduate course, [Purdue University Fort Wayne](https://www.pfw.edu/), Summer 2022
 
 ### Tier 2
 1. [IBM Qiskit Fall Fest 2022, organzier.](https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md), [poster](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitFest22.jpg)
