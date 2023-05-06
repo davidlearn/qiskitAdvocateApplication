@@ -16,7 +16,7 @@
 3. [MIT iquHack](https://www.iquise.mit.edu/iQuHACK/2023-01-27), [Certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/cert-DavidLiu.pdf), submitted a [Hackathon project](https://github.com/iQuHACK/2023_IonQ_Remote/pull/16), Jan 27-29, 2023
 4. [IBM Quantum Explorer,](http://qisk.it/quantum-explorers) [Certificate of Excellence (Highest)](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QuamtumExplorerExcellence%20Certificate.pdf), July 2022 to Feb 2023.
 5. [Quantum Internet Hackathon 2022,](https://quantum-internet.team/event/qia-hackathon-2022/), implemented [ qkd project, Dec 1 - 2, 2022](https://github.com/GSiddiMoreau/QIH22-QKD)
-6. Xanadu's First PennyLane Code Camp, Certificate of Achirevement for completing all 15 code challenges, Nov 1 - 21, 2022.
+6. Xanadu's First PennyLane Code Camp, [Certificate of Achirevement](https://verified.sertifier.com/en/verify/96456667287733) for completing all 15 code challenges, Nov 1 - 21, 2022.
 7. [qBraid Hackathon](https://qbraid.com/haqs/), 9th in Main Challenge Leadeboard, [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/HAQS_%20David%20Liu_CERTIFICATE.pdf) Oct 21 - Nov 5, 2022
 8. [Global Quantum Game Jam 2022](https://www.igda.fi/new-events/2022/igda-future-amp-global-quantum-game-jam-2022), created a Quantum card game, [certificate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QuantumGameJamDavid_Liu.pdf), Sept 16 - 18, 2022
 9. [IBM Quantum Challenge Fall 2022 Achievement - Advanced.](https://www.credly.com/badges/e7dd63d3-d03c-4ada-b1a2-4323e18a8045/public_url)
