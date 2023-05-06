@@ -2,7 +2,7 @@
 ### David Liu
 ## Contributions to Qiskit code and community
 ### Tier 1
-1. Create and Teach "Introduction to Qua),ntum Computing," a semester CS graduate course, Purdue University Fort Wayne, Fall 2023
+1. Create and Teach ["Introduction to Qua),ntum Computing,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QCFA23.pdf) a semester CS graduate course, Purdue University Fort Wayne, Fall 2023
 2. Taught ["Quanmtu Machine Learning,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSP23.pdf), a semester CS graduate course, Purdue University Fort Wayne, Spring 2023
 3. Created and Taught ["Quantum Machine Learning,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSU22.pdf) a semester CS graduate course, Purdue University Fort Wayne, Summer 2022
 
