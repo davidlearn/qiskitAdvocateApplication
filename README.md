@@ -1,6 +1,6 @@
 # Qiskit Advocate Application
 ## Applicant: David Liu
-## Contributions to Qiskit code and community
+## Contributions to Qiskit Code and Community
 ### Tier 1
 1. Create and Teach ["Introduction to Qua),ntum Computing,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QCFA23.pdf) a semester CS graduate course, [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2023
 2. Taught ["Quanmtu Machine Learning,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSP23.pdf), a semester CS graduate course, [Purdue University Fort Wayne](https://www.pfw.edu/), Spring 2023
