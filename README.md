@@ -32,5 +32,5 @@
 ### Tier 4
 1. Qiskit Slack, answer questions in #general, #qiskit-101, #ibm-quantum-challenge, #qiskit-cert-exam,  
 ## Qiskit Developer Certification
-1. [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X, December, 2021](https://www.credly.com/badges/86317861-13ad-4cd1-8b01-6217e9ca4398/public_url)
+1. [IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X](https://www.credly.com/badges/86317861-13ad-4cd1-8b01-6217e9ca4398/public_url), December, 2021
 ## 
