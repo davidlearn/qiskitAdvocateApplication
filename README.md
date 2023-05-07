@@ -1,5 +1,5 @@
 # Qiskit Advocate Application
-## Applicant: David Liu
+## Applicant: David Liu, PhD
 ## Contributions to Qiskit Code and Community
 ### Tier 1
 1. Create and Teach "Introduction to Quantum Computing," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QCFA23.pdf), [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2023
