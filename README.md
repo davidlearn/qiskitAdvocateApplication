@@ -7,7 +7,7 @@
 3. Created and Taught "Quantum Machine Learning," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSU22.pdf), [Purdue University Fort Wayne](https://www.pfw.edu/), Summer 2022
 
 ### Tier 2
-1. [IBM Qiskit Fall Fest 2022](https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md), [poster](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitFest22.jpg), organizer, [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2022
+1. [IBM Qiskit Fall Fest 2022](https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md), [poster](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitFest22.jpg), one of 29 global events selected by the IBM Quantum Team, the only one in Indiana, list on [Qiskit Fall Fest 2022 Site](https://qiskit.org/events/fall-fest/), organizer, [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2022
 2. [World Quantum Day Event](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Q-day2Small.jpg), organizer, [Purdue University Fort Wayne](https://www.pfw.edu/), listed on [World Quantum Day Site](https://worldquantumday.org/events/intro-to-quantum-computing-its-applications/), Spring 2023
 
 ### Tier 3
