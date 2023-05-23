@@ -17,7 +17,7 @@
 
 ### Tier 3
 1. [IBM Quantum Challenge Spring 2023](https://research.ibm.com/blog/quantum-challenge-spring-2023), individual, [Completed All 5 Labs in top 90%](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Lab5IBMQuantumSP23.gif)
-2. QWorld QTraining for Nickel 7 Workshop, [selected as an Instructor Candidate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QTraining%207%20Workshop%20Application%20Acceptance%20-%20Instructor.pdf) and completed the training workshop, May 19, 20, 21, 27, 28, 2023.
+2. QWorld QTraining for Nickel 7 Workshop, [selected as an Instructor Candidate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QTraining%207%20Workshop%20Application%20Acceptance%20-%20I_Page_1.jpg) and completed the training workshop, May 19, 20, 21, 27, 28, 2023.
 3. TPC Member, [QSEEC23: Quantum Science and Engineering Education Conference 2023](https://ed.quantum.ieee.org/qseec-23/)
 4. [Introduction to Quantum Computing with IBM Quantum](https://www.qubitbyqubit.org/course-info),  full scholarship, completed over 100%, Fall 2022 and Spring 2023, [Certificate of Completition](https://verified.sertifier.com/en/verify/56245325107158), [The Coding School](https://the-cs.org/) and [IBM Quantum](https://www.ibm.com/quantum) 
 5. [Quantum Winter School with Microsoft Azure Quantum](https://www.qubitbyqubit.org/winter-school), 4-day intensive program, [Certificate of Completion](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/MicrosoftWinterSchool.png), [The Coding School](https://the-cs.org/) and [Microsoft Azure Quantum](https://azure.microsoft.com/en-us/products/quantum/) 
