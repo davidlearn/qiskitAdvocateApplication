@@ -17,7 +17,7 @@
 
 ### Tier 3
 1. [Unitary Fund Hackathon, May 26 - June 13, 2023, ](https://unitaryhack.dev/), worked on [Qiskit Aer](https://unitaryhack.dev/projects/qiskit-aer/), submitted a [PR](https://github.com/Qiskit/qiskit-aer/pull/1831) for ["qiskit=aerRenew example codes in README #1806"](https://github.com/Qiskit/qiskit-aer/issues/1806) on the first day May 26.
-2. [IBM Quantum Challenge Spring 2023](https://research.ibm.com/blog/quantum-challenge-spring-2023), individual, [Completed All 5 Labs in top 90%](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Lab5IBMQuantumSP23.gif)
+2. [IBM Quantum Challenge Spring 2023](https://research.ibm.com/blog/quantum-challenge-spring-2023), individual, [Completed All 5 Labs in top 90%](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Lab5IBMQuantumSP23.gif), [Advanced Achievement Badge](https://www.credly.com/badges/66aea853-a68e-414c-9d33-34d908a6c294/public_url)
 3. QWorld QTraining for Nickel 7 Workshop, [selected as an Instructor Candidate](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QTraining%207%20Workshop%20Application%20Acceptance%20-%20I_Page_1.jpg) and completed the training workshop, May 19, 20, 21, 27, 28, 2023.
 4. TPC Member, [QSEEC23: Quantum Science and Engineering Education Conference 2023](https://ed.quantum.ieee.org/qseec-23/)
 5. [Introduction to Quantum Computing with IBM Quantum](https://www.qubitbyqubit.org/course-info),  full scholarship, completed over 100%, Fall 2022 and Spring 2023, [Certificate of Completition](https://verified.sertifier.com/en/verify/56245325107158), [The Coding School](https://the-cs.org/) and [IBM Quantum](https://www.ibm.com/quantum) 
