@@ -5,7 +5,7 @@
 1. Develop and Teach "Introduction to Quantum Computing," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QCFA23.pdf), [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2023
 2. Taught "Quanmtu Machine Learning," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSP23.pdf), [Purdue University Fort Wayne](https://www.pfw.edu/), Spring 2023
 3. Developed and Taught "Quantum Machine Learning," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSU22.pdf), [Purdue University Fort Wayne](https://www.pfw.edu/), Summer 2022
-4. Co-authored a research paper "Network Intrusion Detection using Hybrid Artificial Neural Networks and Variational Quantum Classifier,"
+4. Co-authored a research paper ["Network Intrusion Detection using Hybrid Artificial Neural Networks and Variational Quantum Classifier,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/NIDS_using%20HNN%20and%20VQC.pdf), submitted to [CyberC - IEEE TCCC confenece](https://cyberc.org/), Nov 2023
 
 ### Tier 2
 1. [World Quantum Day Event](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Q-day2Small.jpg), organizer, [Purdue University Fort Wayne](https://www.pfw.edu/), listed on [World Quantum Day Site](https://worldquantumday.org/events/intro-to-quantum-computing-its-applications/), Spring 2023
