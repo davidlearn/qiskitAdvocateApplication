@@ -2,7 +2,7 @@
 ## Applicant: David Liu, PhD
 ## Contributions to Qiskit Code and Community
 ### Tier 1
-1. Develop and Teach "Introduction to Quantum Computing," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QCFA23.pdf), [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2023
+1. Develop and Teach "Introduction to Quantum Computing," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QCFA23.pdf), 45 graduate students registered [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2023
 2. Taught "Quanmtu Machine Learning," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSP23.pdf), [Purdue University Fort Wayne](https://www.pfw.edu/), Spring 2023
 3. Developed and Taught "Quantum Machine Learning," one semester CS graduate course, [Official Course Listing](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/CS59000QMLSU22.pdf), [Purdue University Fort Wayne](https://www.pfw.edu/), Summer 2022
 4. Co-authored a research paper ["Network Intrusion Detection using Hybrid Artificial Neural Networks and Variational Quantum Classifier,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/NIDS_using%20HNN%20and%20VQC.pdf), submitted to [CyberC - IEEE TCCC confenece](https://cyberc.org/), Nov 2023
