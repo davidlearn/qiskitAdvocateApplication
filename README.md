@@ -8,7 +8,7 @@
 4. Co-authored a research paper ["Network Intrusion Detection using Hybrid Artificial Neural Networks and Variational Quantum Classifier,"](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/NIDS_using%20HNN%20and%20VQC.pdf), submitted to [CyberC - IEEE TCCC confenece](https://cyberc.org/), Nov 2023
 
 ### Tier 2
-1. [World Quantum Day Event](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Q-day2Small.jpg), organizer, [Purdue University Fort Wayne](https://www.pfw.edu/), listed on [World Quantum Day Site](https://worldquantumday.org/events/intro-to-quantum-computing-its-applications/), Spring 2023
+1. [World Quantum Day Event At PFW](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Q-day2Small.jpg), organizer, [Purdue University Fort Wayne](https://www.pfw.edu/), listed on [World Quantum Day Site](https://worldquantumday.org/events/intro-to-quantum-computing-its-applications/), Spring 2023
 2. [IBM Qiskit Fall Fest 2022](https://github.com/purduequaic/qiskit-fall-fest-22/blob/main/README.md), [poster](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/QiskitFest22.jpg), one of 29 global events selected by the IBM Quantum Team, the only one in Indiana, listed on [Qiskit Fall Fest 2022 Site](https://qiskit.org/events/fall-fest/), organizer, [Purdue University Fort Wayne](https://www.pfw.edu/), Fall 2022
 3. [Promote Quantum Technilogies in LinkedIn](https://www.linkedin.com/in/davidqliu/)
    - Events on IBM Quantum Challenges, Qiskit Global Summer Schools, and other quantim hackathons and Challenges
