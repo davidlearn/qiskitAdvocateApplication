@@ -16,7 +16,7 @@
    - Share about research in Quantum Machine Learning and Optimization, and Hybrid Quantum-Classical Computing
 
 ### Tier 3
-1. [Sixth Quantum Computing Tutorial](https://www.anl.gov/event/sixth-quantum-computing-tutorial), June 26 - 30, 1 - 5 pm CDT, The tutorial is designed to provide hands-on experience programming QAOA and QML on IBM quantum computers using error correction and mitigation schemes. 
+1. [Argonne National Lab Sixth Quantum Computing Tutorial](https://www.anl.gov/event/sixth-quantum-computing-tutorial), June 26 - 30, 1 - 5 pm CDT, The tutorial is designed to provide hands-on experience programming QAOA and QML on IBM quantum computers using error correction and mitigation schemes. 
 2. [Unitary Fund Hackathon, May 26 - June 13, 2023, ](https://unitaryhack.dev/), closed one [Qiskit Aer](https://unitaryhack.dev/projects/qiskit-aer/) issue ["qiskit=aerRenew example codes in README #1806"](https://github.com/Qiskit/qiskit-aer/issues/1806), June 6, 2023
 3. [IBM Quantum Challenge Spring 2023](https://research.ibm.com/blog/quantum-challenge-spring-2023), individual, [Completed All 5 Labs in top 90%](https://github.com/davidlearn/qiskitAdvocateApplication/blob/main/Lab5IBMQuantumSP23.gif), [Advanced Achievement Badge](https://www.credly.com/badges/66aea853-a68e-414c-9d33-34d908a6c294/public_url)
 4. [QWorld Quantum Science Days 2023](https://qworld.net/qscience-days-2023/), [Ceritiftcate of Participation](https://github.com/davidlearn/qiskitAdvocateApplication/commit/88b3356fa35b075f2aadf6703f97671406852c3f), earned by one of 86 pariticipants who attended at least 60% of the virtual conferece program, May 29-31, 2023
